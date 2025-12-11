@@ -62,4 +62,12 @@ Matplotlib
 
 استخراج أكبر يوم متوقع ضغطًا
 
-منحنى مقارنة Actual vs Forecast
+منحنى مقارنة 
+Actual vs Forecast
+
+
+
+
+
+
+
